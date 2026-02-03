@@ -1,4 +1,4 @@
-This project describe how to:
+This project describe how to
 
 -> Create a Strapi application
 -> Run it locally
